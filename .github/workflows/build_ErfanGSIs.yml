@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://miui-1257220649.cos-website.ap-chengdu.myqcloud.com/system.img
-  ROM_NAME: Generic
+  ROM_URL: https://bigota.d.miui.com/20.12.26/miui_DAVINCI_20.12.26_e8b0d030c1_11.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
